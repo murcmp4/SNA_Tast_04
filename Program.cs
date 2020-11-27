@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RDO_Task_04
+namespace SNA_Task_04
 {
     class Program
     {
